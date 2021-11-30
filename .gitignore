@@ -1,0 +1,9 @@
+hex_template
+!hex_template/
+
+logs/*
+
+.idea/
+.vscode/
+
+__debug*
